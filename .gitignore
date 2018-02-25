@@ -1,1 +1,5 @@
-Lib
+/Lib/
+/Scripts/
+/tcl/
+/Include/
+/.idea/
